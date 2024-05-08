@@ -11,6 +11,8 @@ you
 
 This library works both polling and interrupt methods.
 
+You should edit the ADS125X_cycle_Through_Channels function in order to select the MUX channels (single ended or differential).
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 
 ### Usage Polling
