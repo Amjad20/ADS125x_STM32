@@ -142,9 +142,6 @@ void ADS125X_ADC_Code2Volt(ADS125X_t *ads, int32_t *pCode, float *pVolt,
  * @return <float> voltage value on analog input
  * @see    Datasheet Fig. 30 RDATA Command Sequence
  */
-
-/* LIBRARY MACHEN SO: */
-/* ALI NIX SCHULD: */
 float ADS125X_ADC_ReadVolt(ADS125X_t *ads) {
 	uint8_t spiRx[3] = { 0, 0, 0 };
 	spiRx[0] = ADS125X_CMD_RDATA;
