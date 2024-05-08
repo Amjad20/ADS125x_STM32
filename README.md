@@ -17,7 +17,7 @@ This library works both polling and interrupt methods.
 
 ```c
 /* USER CODE BEGIN Includes */
-#include <ads1255.h>
+#include <ads125x.h>
 ```
 
 ```c
