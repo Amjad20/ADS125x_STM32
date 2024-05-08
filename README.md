@@ -1,0 +1,2 @@
+# ADS125x_STM32
+STM32 driver for ADS125x 24bit ADCs.
