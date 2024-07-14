@@ -1,5 +1,5 @@
 # ADS125x_STM32
-STM32 driver for ADS125x (1255, 1256, 1257) 24bit ADCs.
+STM32 driver for ADS125x (ADS1255, ADS1256, ADS1257) 24bit ADCs.
 
 > **Datasheet: [ti.com](https://www.ti.com/lit/ds/sbas288k/sbas288k.pdf?)**
 
