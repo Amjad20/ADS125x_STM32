@@ -7,7 +7,6 @@ STM32 driver for ADS125x (ADS1255, ADS1256, ADS1257) 24bit ADCs.
 
 This work is mostly based on https://github.com/eta-systems/ADS1255. It didn't work for me, so I modified it a bit.
 Some of the notes and code has been taken from https://curiousscientist.tech/blog/ads1256-arduino-stm32-sourcecode.
-you 
 
 This library works both polling and interrupt methods.
 
